@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GamesAppProiect.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GamesAppProiect.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\arma3.jpg",
+      "PackagePath": "staticwebassets\\Images\\arma3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\browsericon.png",
+      "PackagePath": "staticwebassets\\Images\\browsericon.png"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\csgo.png",
+      "PackagePath": "staticwebassets\\Images\\csgo.png"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\diablo4.jpg",
+      "PackagePath": "staticwebassets\\Images\\diablo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\dota2.jpg",
+      "PackagePath": "staticwebassets\\Images\\dota2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\ets2.jpg",
+      "PackagePath": "staticwebassets\\Images\\ets2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\eu4.png",
+      "PackagePath": "staticwebassets\\Images\\eu4.png"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\forhonor.jpg",
+      "PackagePath": "staticwebassets\\Images\\forhonor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\forza5.jpg",
+      "PackagePath": "staticwebassets\\Images\\forza5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\minecraft.png",
+      "PackagePath": "staticwebassets\\Images\\minecraft.png"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\outlast.jpg",
+      "PackagePath": "staticwebassets\\Images\\outlast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\pacman.jpg",
+      "PackagePath": "staticwebassets\\Images\\pacman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\sonsoftheforest.jpg",
+      "PackagePath": "staticwebassets\\Images\\sonsoftheforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\tf2.jpg",
+      "PackagePath": "staticwebassets\\Images\\tf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\theforest.jpg",
+      "PackagePath": "staticwebassets\\Images\\theforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\user.jpg",
+      "PackagePath": "staticwebassets\\Images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\Images\\userphoto.png",
+      "PackagePath": "staticwebassets\\Images\\userphoto.png"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\rcroi\\source\\repos\\GamesAppProiect\\GamesAppProiect\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GamesAppProiect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GamesAppProiect.props",
+      "PackagePath": "build\\GamesAppProiect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GamesAppProiect.props",
+      "PackagePath": "buildMultiTargeting\\GamesAppProiect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GamesAppProiect.props",
+      "PackagePath": "buildTransitive\\GamesAppProiect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

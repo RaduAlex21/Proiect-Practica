@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\arma3.jpg" />
+    <None Include="wwwroot\Images\browsericon.png" />
+    <None Include="wwwroot\Images\csgo.png" />
+    <None Include="wwwroot\Images\diablo4.jpg" />
+    <None Include="wwwroot\Images\dota2.jpg" />
+    <None Include="wwwroot\Images\ets2.jpg" />
+    <None Include="wwwroot\Images\eu4.png" />
+    <None Include="wwwroot\Images\forhonor.jpg" />
+    <None Include="wwwroot\Images\forza5.jpg" />
+    <None Include="wwwroot\Images\minecraft.png" />
+    <None Include="wwwroot\Images\outlast.jpg" />
+    <None Include="wwwroot\Images\pacman.jpg" />
+    <None Include="wwwroot\Images\sonsoftheforest.jpg" />
+    <None Include="wwwroot\Images\tf2.jpg" />
+    <None Include="wwwroot\Images\theforest.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+</Project>
